@@ -1,3 +1,3 @@
-# reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+# Agile Days 2016 Presentation
 
-Presentation From reveal.js demo  at <a href="https://github.com/hakimel/reveal.js/">https://github.com/hakimel/reveal.js/</a>
+Presentation made in reveal.js demo  at <a href="https://github.com/hakimel/reveal.js/">https://github.com/hakimel/reveal.js/</a>
